@@ -47,6 +47,8 @@ The loss function measures the difference between the predicted emotions and the
   - import matplotlib.image as mpimg
 
  ## Our model Performance
+ ![accuracy](https://github.com/COMETS-ID/ML-for-build-model-finished/assets/87791950/ab47c9cc-994e-4edf-97e4-4b2d8b43e411)
+![modelperformance](https://github.com/COMETS-ID/ML-for-build-model-finished/assets/87791950/6c83a939-a757-4bb0-9d9c-15e3a0ad68f9)
  
 
 
